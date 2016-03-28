@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31189" started-at="2016-03-03T08:53:01Z" finished-at="2016-03-03T08:53:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31189" started-at="2016-03-03T08:53:01Z" finished-at="2016-03-03T08:53:32Z">
+      <class name="com.innoventes.amagi.AppTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.innoventes.amagi.AppTest@3ac3fd8b]" name="setUp" is-config="true" duration-ms="4880" started-at="2016-03-03T14:23:01Z" finished-at="2016-03-03T14:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="adminlinktest_dsrcheck()[pri:0, instance:com.innoventes.amagi.AppTest@3ac3fd8b]" name="adminlinktest_dsrcheck" duration-ms="9089" started-at="2016-03-03T14:23:06Z" finished-at="2016-03-03T14:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminlinktest_dsrcheck -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.innoventes.amagi.AppTest@3ac3fd8b]" name="setUp" is-config="true" duration-ms="156" started-at="2016-03-03T14:23:15Z" finished-at="2016-03-03T14:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.innoventes.amagi.AppTest@3ac3fd8b]" name="quit" is-config="true" duration-ms="0" started-at="2016-03-03T14:23:15Z" finished-at="2016-03-03T14:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="normaluserlinktestanddsrentrytes()[pri:0, instance:com.innoventes.amagi.AppTest@3ac3fd8b]" name="normaluserlinktestanddsrentrytes" duration-ms="12773" started-at="2016-03-03T14:23:15Z" finished-at="2016-03-03T14:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normaluserlinktestanddsrentrytes -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.innoventes.amagi.AppTest@3ac3fd8b]" name="quit" is-config="true" duration-ms="16" started-at="2016-03-03T14:23:28Z" finished-at="2016-03-03T14:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.innoventes.amagi.AppTest@3ac3fd8b]" name="setUp" is-config="true" duration-ms="156" started-at="2016-03-03T14:23:28Z" finished-at="2016-03-03T14:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="userhierachytest()[pri:0, instance:com.innoventes.amagi.AppTest@3ac3fd8b]" name="userhierachytest" duration-ms="4057" started-at="2016-03-03T14:23:28Z" finished-at="2016-03-03T14:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userhierachytest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.innoventes.amagi.AppTest@3ac3fd8b]" name="quit" is-config="true" duration-ms="0" started-at="2016-03-03T14:23:32Z" finished-at="2016-03-03T14:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.innoventes.amagi.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
